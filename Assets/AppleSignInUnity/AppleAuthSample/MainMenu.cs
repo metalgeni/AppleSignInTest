@@ -11,6 +11,10 @@ using UnityEngine;
 
 // test git2
 using UnityEngine.UI;
+
+// test branch from non branch
+using UnityEngine.UI;
+
 public class MainMenu : MonoBehaviour
 {
     private const string AppleUserIdKey = "AppleUserId";
