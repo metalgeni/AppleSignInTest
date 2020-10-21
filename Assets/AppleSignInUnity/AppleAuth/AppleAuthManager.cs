@@ -6,6 +6,11 @@ using AppleAuth.Enums;
 using AppleAuth.Interfaces;
 using System;
 
+/// <summary>
+/// git test 
+/// </summary>
+
+
 namespace AppleAuth
 {
     public class AppleAuthManager : IAppleAuthManager
